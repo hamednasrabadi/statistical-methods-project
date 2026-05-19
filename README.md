@@ -1,24 +1,24 @@
-# Statistical Methods Project — Educational Performance Analysis
+# Statistical Methods Project: Educational Performance Analysis
 
 A comprehensive statistical analysis of factors influencing student academic performance, combining SPSS and Python pipelines for data preparation, hypothesis testing, modeling, and reporting.
 
-> **Course:** Statistical Methods — University of Tehran, Statistics undergraduate program (3rd semester).
+> **Course:** Statistical Methods, University of Tehran, Statistics undergraduate program (3rd semester).
 >
 > **Report language:** Persian (Farsi). The Python code and SPSS output names are in English.
 
 ## Research Question
 
-How do factors such as gender, study habits, attendance, family support, extracurricular activities, and online vs. in-person instruction relate to student academic performance — and which of these can be used to build a predictive model of final grades?
+How do factors such as gender, study habits, attendance, family support, extracurricular activities, and online vs. in-person instruction relate to student academic performance, and which of these can be used to build a predictive model of final grades?
 
 ## Methodology Overview
 
 The analysis follows a complete statistical workflow:
 
-1. **Data architecture & preprocessing** — schema design, validation, and cleaning protocols.
-2. **Exploratory data analysis** — distributional checks, group comparisons, and assumption testing.
-3. **Inferential statistical testing** — a wide battery of parametric and nonparametric tests.
-4. **Predictive modeling** — feature screening and multiple linear regression.
-5. **Discussion & validation** — methodological critique and data-integrity audit.
+1. **Data architecture & preprocessing**: schema design, validation, and cleaning protocols.
+2. **Exploratory data analysis**: distributional checks, group comparisons, and assumption testing.
+3. **Inferential statistical testing**: a wide battery of parametric and nonparametric tests.
+4. **Predictive modeling**: feature screening and multiple linear regression.
+5. **Discussion & validation**: methodological critique and data-integrity audit.
 
 ### Tests Applied
 
@@ -65,19 +65,19 @@ statistical-methods-project/
 
 ## Report Structure (7 chapters)
 
-1. **Introduction** — research questions and motivation
-2. **Data architecture** — data dictionary, preprocessing protocols, validation
-3. **Exploratory analysis** — distributions, group comparisons, normality & randomness checks
-4. **Inferential analysis** — full battery of parametric and nonparametric tests
-5. **Modeling** — feature screening and multiple linear regression
-6. **Discussion** — interpretation, limitations, and methodological reflections (incl. Hawthorne effect)
-7. **Validation & quality control** — audit of the data reconstruction pipeline
+1. **Introduction**: research questions and motivation
+2. **Data architecture**: data dictionary, preprocessing protocols, validation
+3. **Exploratory analysis**: distributions, group comparisons, normality & randomness checks
+4. **Inferential analysis**: full battery of parametric and nonparametric tests
+5. **Modeling**: feature screening and multiple linear regression
+6. **Discussion**: interpretation, limitations, and methodological reflections (incl. Hawthorne effect)
+7. **Validation & quality control**: audit of the data reconstruction pipeline
 
 ## Tech Stack
 
-- **Python** — pandas, NumPy, SciPy, statsmodels, matplotlib
-- **SPSS** — primary statistical testing platform
-- **Markdown / HTML** — report authoring with custom styling
+- **Python**: pandas, NumPy, SciPy, statsmodels, matplotlib
+- **SPSS**: primary statistical testing platform
+- **Markdown / HTML**: report authoring with custom styling
 
 ## Running the Code
 
@@ -95,4 +95,4 @@ The dataset is **simulated**, not real student records. All names in the CSV are
 
 ## Author
 
-Hamed Nasrabadi — Statistics student at the University of Tehran.
+Hamed Nasrabadi, Statistics student at the University of Tehran.
